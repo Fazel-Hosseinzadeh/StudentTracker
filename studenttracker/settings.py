@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'faezel-studenttracker.heroku.com']
+ALLOWED_HOSTS = ['localhost', 'faezel-studenttracker-b0d347e7a1e9.herokuapp.com']
 
 
 # Application definition
